@@ -1,6 +1,6 @@
 <h1 align="center"> PRACTICA PASTELERIA </h1>
 
-<p align="center"><img src="./IMG/LaunchX.png"/></p> 
+<p align="center"><img src="./assets/img/LaunchX.png"/></p> 
 
 ## Descripción
 
